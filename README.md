@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection
+# FraudNet: Credit Card Threat Detector
 
 Detecting fraudulent credit card transactions using machine learning.
 
